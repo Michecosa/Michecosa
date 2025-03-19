@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔹 🎓 Computer Engineering student
+🔹 🚀 Exploring new challenges in software development
+🔹 🔐 Interested in cryptography, threat modeling, and secure software development.
