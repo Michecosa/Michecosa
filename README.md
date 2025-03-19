@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔹 🎓 Computer Engineering student
-🔹 🚀 Exploring new challenges in software development
-🔹 🔐 Interested in cryptography, threat modeling, and secure software development.
+🔹 🎓 **Computer Engineering** student <br>
+🔹 🚀 Currently working on a **Software Engineering project** <br>
+🔹 🔐 Interested in **cybersecurity** and **software development** <br>
