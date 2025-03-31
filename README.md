@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 🔹 🎓 **Computer Engineering** student <br>
 🔹 🚀 Currently working on a **Software Engineering project** <br>
-🔹 🔐 Interested in **cybersecurity** and **software development** <br>
+🔹 🔐 Always learning about **cybersecurity** and **software development** <br>
