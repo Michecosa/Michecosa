@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **Michecosa/Michecosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Michela — student, code tinkerer, and soon-to-be full-stack dev.
+
+-  Studying Computer Engineering  
+-  Learning Web Dev (front + back end)  
+-  Into Cybersecurity  
