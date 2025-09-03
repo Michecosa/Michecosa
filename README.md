@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm Michela — student, code tinkerer, and soon-to-be full-stack dev.
 
--  Studying Computer Engineering  
+-  Computer Engineering student
 -  Learning Web Dev (front + back end)  
 -  Into Cybersecurity  
