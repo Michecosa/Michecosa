@@ -9,7 +9,6 @@ I'm a **Computer Engineering** student at *University of Naples Federico II* and
 - 🎓 **Education:** Final year(s) of Computer Engineering @ UniNA.
 - 💻 **Experience:** Junior Full Stack Development (JS/PHP ecosystem).
 - 🛡️ **Passions:** Deep diving into Cybersecurity and Web Security.
-- ⚡ **Fun Fact:** I speak both "high-level" (React) and "pain-level" (C/C++).
 
 <br>
 
