@@ -4,7 +4,8 @@ I'm a **Computer Science** student at *University of Naples Federico II* and a *
 
 <br>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Michecosa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Michecosa&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### 🚀 Quick Info
