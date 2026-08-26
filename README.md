@@ -76,7 +76,5 @@ Same thing, with badges
 
 ## $ cat contacts.txt
 
-<!-- sostituisci gli URL, poi togli questo commento -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME/)
-[![Email](https://img.shields.io/badge/Email-3FB950?style=flat-square&logo=gmail&logoColor=white)](mailto:INDIRIZZO@ESEMPIO.IT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/michela-della-gatta)
+[![Email](https://img.shields.io/badge/Email-3FB950?style=flat-square&logo=gmail&logoColor=white)](mailto:michedellagatta@gmail.com)
