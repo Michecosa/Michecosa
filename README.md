@@ -39,5 +39,5 @@ I build secure, scalable web applications, and I'm most curious about what happe
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/michela-della-gatta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michela-della-gatta)
 [![Email](https://img.shields.io/badge/Email-informational?style=flat-square&logo=gmail&logoColor=white)](mailto:michedellagatta@gmail.com)
